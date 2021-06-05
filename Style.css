@@ -1,0 +1,14 @@
+<style>body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: dotted none none;
+  /*we can also do border sytle: none; along with border-top-style:dotterd */
+  width: 70px;
+  /*we can also add percentage values so that when used in other platforms the width does not remain fixed but changes dynamically with respect to the display size.*/
+  border-color: grey;
+  border-width: thick;
+}
+
+</style>
